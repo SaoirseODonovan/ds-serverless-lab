@@ -1,2 +1,2 @@
-# Assignment 1 
+# Serverless REST web API.
 
